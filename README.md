@@ -1,11 +1,3 @@
-# Nest application example
-
-This example demonstrates how to setup a [Nest](https://github.com/nestjs/nest) application.
-
-## Use Cases
-
-- Setup & deploy a [Nest Application starter](https://github.com/nestjs/typescript-starter)
-
 ## Running the app locally
 
 ```bash
